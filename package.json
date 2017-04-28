@@ -1,0 +1,28 @@
+{
+  "name": "create-ts-project",
+  "version": "0.0.0-development",
+  "description": "Create a new pre-configured TypeScript project with ease.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingHenne/create-ts-project.git"
+  },
+  "author": "Hendrik Liebau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingHenne/create-ts-project/issues"
+  },
+  "homepage": "https://github.com/KingHenne/create-ts-project#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript",
+    "project",
+    "scaffolding",
+    "tsconfig",
+    "tslint"
+  ]
+}
